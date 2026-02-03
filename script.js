@@ -14,6 +14,7 @@ function calculation() {
         display.value = eval(display.value);
     }
     catch{
-        display.value = "Fuck you☹️😅"
+        display.value = "Are you crazy?☹️😅"
     }
+
 }
